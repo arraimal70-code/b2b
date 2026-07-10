@@ -1,0 +1,6 @@
+{
+  "name": "ContentForge AI",
+  "description": "A powerful content repurposing platform for Indian creators, turning YouTube videos and transcripts into LinkedIn posts, Twitter threads, newsletter copy, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
